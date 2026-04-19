@@ -1,1 +1,1 @@
-# cpp-infra
+# hackathon
